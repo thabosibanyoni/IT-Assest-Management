@@ -1,0 +1,3 @@
+node server/server.js
+
+Open browser at http://localhost:3000
